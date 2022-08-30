@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\craxidile\\Desktop\\test-git-git\\TestGitGit\\TestGitGit\\TestGitGit.csproj",
+      "projectUniqueName": "C:\\Users\\craxidile\\Desktop\\test-git-git-01\\TestGitGit\\TestGitGit\\TestGitGit.csproj",
       "projectName": "TestGitGit",
-      "projectPath": "C:\\Users\\craxidile\\Desktop\\test-git-git\\TestGitGit\\TestGitGit\\TestGitGit.csproj",
+      "projectPath": "C:\\Users\\craxidile\\Desktop\\test-git-git-01\\TestGitGit\\TestGitGit\\TestGitGit.csproj",
       "packagesPath": "C:\\Users\\craxidile\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\craxidile\\Desktop\\test-git-git\\TestGitGit\\TestGitGit\\obj\\",
+      "outputPath": "C:\\Users\\craxidile\\Desktop\\test-git-git-01\\TestGitGit\\TestGitGit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\craxidile\\AppData\\Roaming\\NuGet\\NuGet.Config",
